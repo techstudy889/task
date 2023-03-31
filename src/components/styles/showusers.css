@@ -1,0 +1,22 @@
+table
+{
+min-height:400px;
+width:800px;
+margin:0px auto;
+padding:20px auto;	
+	background:#328fa8;
+}
+th
+{
+background-color: white!important;	
+}
+thead
+{
+background-color:red !important;	
+}
+h1
+{
+padding-left:1000px !important;
+color:black;
+padding-top:10px !important;
+}

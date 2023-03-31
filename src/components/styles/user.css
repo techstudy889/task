@@ -1,0 +1,33 @@
+form
+{
+min-height:100px;
+width:300px;
+margin:50px auto;
+padding-top:30px;	
+padding-left:20px;	
+line-height:10px;
+	background:#328fa8;
+	
+}
+label
+{
+padding-left:10px;		
+}
+h1
+{
+	padding-left:400px !important;
+	padding-top:10px !important;
+	
+}
+.a{
+height:30px;
+width:80px;	
+margin-left:100px;
+margin-bottom:10px;
+}
+.abc
+{
+height:30px;
+width:100px;
+margin:10px;
+}
